@@ -2,4 +2,4 @@ pandas
 beautifulsoup4
 url-normalize
 unidecode
-
+tqdm
