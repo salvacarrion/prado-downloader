@@ -1,6 +1,6 @@
 # Prado Museum's Project
 
-Scrape images from the PRADO MUSEUM website to build a dataset for a Generative Adversarial Network.
+Scrape data and images from the PRADO MUSEUM website to build a dataset for a Generative Adversarial Network.
 
 **Website:** [https://www.museodelprado.es/coleccion/obras-de-arte](https://www.museodelprado.es/coleccion/obras-de-arte)
 
