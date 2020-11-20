@@ -152,8 +152,9 @@ data.to_csv(savepath, index=False)
 
 # Summary
 print("")
-print(f"{len(data)} rows were saved!")
 print("-"*30)
-print(f"Errors:")
 print(errors)
+print("-"*30)
+print(f"Errors: {len(errors)}")
+print(f"{len(data)} rows were saved!")
 print("done!")
